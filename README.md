@@ -3,9 +3,11 @@ comandos mais usados no git
 
 Lista de comandos básicos mais utilizados ao trabalhar com versionamento em Git
 
-git config: Este é o primeiro comando a ser executado após instalar o Git. Ele possibilita configurar seu nome e endereço de email que ficará vinculado às alterações.
-$ git config --global user.name "Nome do usuário"
-$ git config --global user.email "seu@email.com"
+## git config: Este é o primeiro comando a ser executado após instalar o Git. Ele possibilita configurar seu nome e endereço de email que ficará vinculado às alterações.
+```
+   git config --global user.name "Nome do usuário"
+   git config --global user.email "seu@email.com"
+```
 
 git init: Inicia ou cria um repositório.
 $ git init

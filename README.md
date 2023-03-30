@@ -1,4 +1,4 @@
-# command_git
+# COMANDOS MAIS USADOS NO GIT
 comandos mais usados no git
 
 Lista de comandos básicos mais utilizados ao trabalhar com versionamento em Git
